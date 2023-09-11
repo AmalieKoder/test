@@ -1,0 +1,39 @@
+.parallax-image {
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parallaxImages1 {
+    height: 100vh;
+    background-image: url("img/sakura.jpg");
+}
+
+.parallaxImages2 {
+    height: 150vh;
+    background-image: url("img/porty.jpg");
+}
+
+.parallaxImages3 {
+    height: 150vh;
+    background-image: url("img/mountain.jpg");
+}
+
+h1 {
+    background-color: white;
+    opacity: 70%;
+    letter-spacing: 10px;
+    font-size: 50px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
