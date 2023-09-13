@@ -11,16 +11,19 @@
 }
 
 .parallaxImages1 {
+    max-width: 1000px;
     height: 100vh;
     background-image: url("img/sakura.jpg");
 }
 
 .parallaxImages2 {
+    max-width: 1000px;
     height: 150vh;
     background-image: url("img/porty.jpg");
 }
 
 .parallaxImages3 {
+    max-width: 1000px;
     height: 150vh;
     background-image: url("img/mountain.jpg");
 }
